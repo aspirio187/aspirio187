@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on [GD-depot-eice](https://github.com/aspirio187/GD-depot-eice)
 - 🌱 I’m currently learning :
-  - [flutter](https://github.com/flutter/flutter)
-  - [react native](https://github.com/facebook/react-native)
-  - [TypeScript](https://github.com/microsoft/TypeScript)
+  - SAPUI5
+  - node.js
 - 💬 Ask me about anything you want
 
 <!--
